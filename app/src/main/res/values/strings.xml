@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MathOCR</string>
+    <string name="btn_choose_image_text">Chọn ảnh</string>
 </resources>
